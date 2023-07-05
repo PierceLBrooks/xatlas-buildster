@@ -36,7 +36,7 @@
           </export>
           <export type="headers">
             <key>XATLAS_INCLUDE_PATH</key>
-            <value><install></install>/include</value>
+            <value><install></install>/include/xatlas</value>
           </export>
           <export type="libraries">
             <key>XATLAS_LIBRARIES_PATH</key>
